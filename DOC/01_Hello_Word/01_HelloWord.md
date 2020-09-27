@@ -4,11 +4,9 @@
 
 * (berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-` ScreenShot`![](img/activity.png)
-
-``![](img/activityMain.png)
-
-``![](img/RunningHelloWord.png)
+    ` ScreenShot`![](img/activity.png)
+    ![](img/activityMain.png)
+    ![](img/RunningHelloWord.png)
 
  link kode program: 
  
