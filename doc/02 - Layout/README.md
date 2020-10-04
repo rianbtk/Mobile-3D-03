@@ -4,7 +4,7 @@
 
 ### Membuat layout di Android Studio
 
-### Specification
+### TASK GUIDE (A1X.01)
 1. <b>`Pertama kita buat project baru di adnroid studio`
 ![](img/start.png)
 ![](img/start1.png)
@@ -21,7 +21,7 @@
 ![](img/run.png)
 </b>
 
-### Result
+### TASK GUIDE (A1X.02)
 
 1. `Buat folder "font" di bawah folder "res". Klik kanan pada folder "res" dan pilih New –Adroid Resource Directory ` 
  ![](img/font.png) <br>
@@ -35,3 +35,5 @@
  ![](img/a21.png) <br>
  `Running TestA1BasicUIX021` <br>
  ![](img/a21R.png) <br>
+
+ ### TASK GUIDE (A1X.03)
