@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">BasicAppX</string>
+    <string name="app_name">UnitConverter</string>
+    <string name="tv1Text">UnitConverter</string>
+    <string name="tv2Text">-></string>
+    <string name="btnText">Convert</string>
+    <string name="inputText">0</string>
+    <string name="inputPrompt">Choose</string>
+    <string name="hint">Enter_any_value</string>
+    <string name="chkRound">Rounded</string>
+    <string name="chkForm">ShowFormula</string>
+    <string name="rbDist">Distance</string>
+    <string name="rbTemp">Temperature</string>
+    <string name="rbWeight">Weight</string>
 </resources>

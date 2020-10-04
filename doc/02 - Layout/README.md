@@ -4,7 +4,7 @@
 
 ### Membuat layout di Android Studio
 
-### Part 1
+### Specification
 1. <b>`Pertama kita buat project baru di adnroid studio`
 ![](img/start.png)
 ![](img/start1.png)
@@ -21,4 +21,17 @@
 ![](img/run.png)
 </b>
 
-### Part 2
+### Result
+
+1. `Buat folder "font" di bawah folder "res". Klik kanan pada folder "res" dan pilih
+“New –Adroid Resource Directory”`![](img/font.png)<br>
+ `Copy file font` <br>
+ ![](img/fontc.png) <br>
+ `Edit Strings dan Color pada res/values`
+ ![](img/edit.png)
+ ![](img/strings.png)
+ ![](img/color.png) <br>
+ `Copy TestA1BasicUIX021.java dan ResourceTest.java`
+ ![](img/a21.png) <br>
+ `Running TestA1BasicUIX021`
+ ![](img/a21R.png)
