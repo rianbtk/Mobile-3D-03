@@ -23,9 +23,8 @@
 
 ### Result
 
-1. `Buat folder "font" di bawah folder "res". Klik kanan pada folder "res" dan pilih
-“New –Adroid Resource Directory”`
- `![](img/font.png) <br>
+1. `Buat folder "font" di bawah folder "res". Klik kanan pada folder "res" dan pilih New –Adroid Resource Directory ` 
+ ![](img/font.png) <br>
  `Copy file font` <br>
  ![](img/fontc.png) <br>
  `Edit Strings dan Color pada res/values` <br>
