@@ -12,9 +12,10 @@
 `Maka akan keluar tampilan awal di android studio  sebagai berikut`
 ![](img/tamp1.png)
 </b>
-2. <b>`Mengganti "build.graddle (Module: app)"`
+
+2. <b>`Mengganti build.graddle (Module: app)`
 ![](img/gradle.png)
-`Hapus file “ExampleUnitTest” in “org.aplas.basicapp (test)” `
+`Hapus file ExampleUnitTest in org.aplas.basicapp (test)`
 ![](img/gradleh.png)
 `Jalankan dan Running file TestA1BasicUI011X`
 ![](img/run.png)
