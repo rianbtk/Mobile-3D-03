@@ -10,6 +10,6 @@
 
  link kode program: 
  
- [Code Program 1](../../SRC/01_HelloWord/activity_main.xml)
+ [Code Program 1]()
 
- [Code Program 2](../../SRC/01_HelloWord/MainActivity.java)
+ [Code Program 2]()
