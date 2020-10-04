@@ -15,9 +15,12 @@
 
 <br>
 
-2. <b>`Mengganti build.graddle (Module: app)`![](img/gradle.png)
-`Hapus file ExampleUnitTest in org.aplas.basicapp (test)`![](img/gradleh.png)
-`Jalankan dan Running file TestA1BasicUI011X`![](img/run.png)
+2. <b>`Mengganti build.graddle (Module: app)`
+![](img/gradle.png)
+`Hapus file ExampleUnitTest in org.aplas.basicapp (test)`
+![](img/gradleh.png)
+`Jalankan dan Running file TestA1BasicUI011X`
+![](img/run.png)
 </b>
 
 ### Part 2
