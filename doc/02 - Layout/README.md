@@ -24,14 +24,15 @@
 ### Result
 
 1. `Buat folder "font" di bawah folder "res". Klik kanan pada folder "res" dan pilih
-“New –Adroid Resource Directory”`![](img/font.png)<br>
+“New –Adroid Resource Directory”`
+ `![](img/font.png) <br>
  `Copy file font` <br>
  ![](img/fontc.png) <br>
- `Edit Strings dan Color pada res/values`
- ![](img/edit.png)
- ![](img/strings.png)
+ `Edit Strings dan Color pada res/values` <br>
+ ![](img/edit.png) <br>
+ ![](img/strings.png) <br>
  ![](img/color.png) <br>
- `Copy TestA1BasicUIX021.java dan ResourceTest.java`
+ `Copy TestA1BasicUIX021.java dan ResourceTest.java` <br>
  ![](img/a21.png) <br>
- `Running TestA1BasicUIX021`
- ![](img/a21R.png)
+ `Running TestA1BasicUIX021` <br>
+ ![](img/a21R.png) <br>
