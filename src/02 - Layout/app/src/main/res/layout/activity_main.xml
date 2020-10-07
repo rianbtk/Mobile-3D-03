@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:background="@color/viewBgColor"
     tools:context=".MainActivity">
-
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:id="@+id/myTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="30pt"
+        android:text="@string/tv1Text"
+        android:textColor="@color/textColor"
+        android:textSize="14pt"
+        android:gravity="center"
+        android:fontFamily="@font/cambria"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <Button
+        android:id="@+id/convertButton"
+        android:layout_width="match_parent"
+        android:layout_height="20pt"
+        android:text="@string/btnText"
+        android:textColor="@color/textColor"
+        android:textSize="11pt"
+        android:background="@color/btnColor"
+        android:fontFamily="@font/lucida"
+        android:layout_below="@id/myTextView1" />
+
+</RelativeLayout>
