@@ -116,4 +116,35 @@
 
     </LinearLayout>
 
+    <!--..?-->
+
+    <LinearLayout
+        android:id="@+id/child2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/child1"
+        android:layout_marginTop="5pt">
+
+        <CheckBox
+            android:id="@+id/chkRounded"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chkRound"
+            android:textSize="8pt"
+            android:layout_gravity="center"
+            android:checked="true">
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/chkFormula"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chkForm"
+            android:textSize="8pt"
+            android:layout_gravity="center">
+        </CheckBox>
+
+    </LinearLayout>
+
 </RelativeLayout>
