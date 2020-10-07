@@ -82,3 +82,12 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
  `Hasil Testing`![](img/06test.png)
 
  ### TASK GUIDE (A1X.07)
+
+ `View Prject`![](img/07view.png)
+
+ `Hasil Result` <br>
+ ![](img/07result.png)
+
+ `Hasil Testing`![](img/07test.png)
+
+  ### TASK GUIDE (A1X.08)
