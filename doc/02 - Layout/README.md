@@ -54,7 +54,8 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 
 <br>
 
-`Hasil Layout`![](img/03Layout.png)
+`Hasil Layout`
+![](img/03Layout.png)
 
  ### TASK GUIDE (A1X.04)
 
@@ -65,6 +66,8 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 ### TASK GUIDE (A1X.05)
 
  `View Prject`![](img/05view.png)
+
+<br>
 
  `Hasil Result`![](img/05vieww.png)
 
