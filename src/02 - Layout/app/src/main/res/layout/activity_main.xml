@@ -34,5 +34,19 @@
         android:background="@color/btnColor"
         android:fontFamily="@font/lucida"
         android:layout_below="@id/myTextView1" />
+    <Space
+        android:id="@+id/space1"
+        android:layout_width="match_parent"
+        android:layout_height="5pt"
+        android:layout_below="@id/convertButton"  />
+
+    <LinearLayout
+        android:id="@+id/child1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/space1">
+
+    </LinearLayout>
 
 </RelativeLayout>
