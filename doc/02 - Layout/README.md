@@ -1,6 +1,6 @@
 # Layout
 
-## 02 - Layaout
+## 02 - Layout
 
 ### Membuat layout di Android Studio
 
@@ -37,3 +37,22 @@
  ![](img/a21R.png) <br>
 
  ### TASK GUIDE (A1X.03)
+
+ 1. Pertama buka project di android studio
+    setelah itu ganti " ConstraintLayout "  dengan RelativeLayout lalu tambahkan TextView dan Button
+    lalu masukan code sesuaipada module 
+
+ `RelativeLayout`![](img/03Relativ.png)
+ `TextView`![](img/03Text.png)
+ `Button`![](img/03Button.png)
+ 
+ <br>
+
+Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
+
+`Button`![](img/03Test.png) <br>
+`Hasil Layout`![](img/03Layout.png)
+
+ ### TASK GUIDE (A1X.04)
+
+ 
