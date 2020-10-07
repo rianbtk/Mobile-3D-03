@@ -81,7 +81,7 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 
  `Hasil Testing`![](img/06test.png)
 
- ### TASK GUIDE (A1X.07)
+### TASK GUIDE (A1X.07)
 
  `View Prject`![](img/07view.png)
 
@@ -90,7 +90,8 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 
  `Hasil Testing`![](img/07test.png)
 
-  ### TASK GUIDE (A1X.08)
+### TASK GUIDE (A1X.08)
+ 
  `Hasil Testing` <br>
  ![](img/08temp.png)
  
@@ -101,3 +102,19 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 
  `Hasil Testing`![](img/08test.png)
  `Hasil Testing`![](img/08test1.png)
+
+### TASK GUIDE (A1X.09)
+
+ `Hasil Testing` <br>
+ ![](img/09temp.png)
+
+ `Terjadi error karena draweblle ada pada modul B1-BasicActivity(withAndroidX)-SupplementFiles` <br>
+ ![](img/09f.png)
+ 
+ `View Prject`![](img/09view.png)
+
+ `Hasil Result` <br>
+ ![](img/09result.png)
+
+ `Hasil Testing`![](img/09test.png)
+ `Hasil Testing`![](img/09test1.png)

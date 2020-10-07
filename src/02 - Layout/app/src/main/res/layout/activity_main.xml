@@ -191,6 +191,126 @@
         android:src="@drawable/temperature"
         android:visibility="visible" />
 
+    <TableLayout
+        android:id="@+id/table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5pt"
+        android:stretchColumns="*">
 
+        <TableRow>
+            <TextView
+                android:id="@+id/tv11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/header_style"
+                android:padding="5dp"
+                android:text="@string/rbTemp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tv12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="0°C"/>
+            <TextView
+                android:id="@+id/tv13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="32°F"/>
+            <TextView
+                android:id="@+id/tv14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="273.15 K"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tv21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/header_style"
+                android:padding="5dp"
+                android:text="@string/rbDist"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tv22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="1 Meter"/>
+            <TextView
+                android:id="@+id/tv23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="39.3701 Inch"/>
+            <TextView
+                android:id="@+id/tv24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="3.2808 feet"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tv31"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/header_style"
+                android:padding="5dp"
+                android:text="@string/rbWeight"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tv32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="1 Kg"/>
+            <TextView
+                android:id="@+id/tv33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="35.2740 ounce"/>
+            <TextView
+                android:id="@+id/tv34"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_style"
+                android:padding="5dp"
+                android:text="2.2046 pound"/>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <ImageView
+        android:id="@+id/imgFormula"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/formula"
+        android:layout_below="@id/table"
+        android:layout_marginTop="1pt"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible">
+    </ImageView>
 
 </RelativeLayout>
