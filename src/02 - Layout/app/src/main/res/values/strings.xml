@@ -11,4 +11,9 @@
     <string name="rbDist">Distance</string>
     <string name="rbTemp">Temperature</string>
     <string name="rbWeight">Weight</string>
+    <string-array name="tempList">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
 </resources>

@@ -47,6 +47,73 @@
         android:orientation="horizontal"
         android:layout_below="@id/space1">
 
+        <EditText
+            android:id="@+id/inputText"
+            android:layout_width="0dip"
+            android:layout_height="20pt"
+            android:layout_weight="0.2"
+            android:text="@string/inputText"
+            android:textColor="@color/textColor"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            android:fontFamily="@font/cambria"
+            android:gravity="center"
+            android:background="@color/etBgColor"
+            android:inputType="number"
+            android:hint="@string/hint">
+        </EditText>
+
+        <Spinner
+            android:id="@+id/oriList"
+            android:layout_width="0dip"
+            android:layout_height="20pt"
+            android:layout_weight="0.24"
+            android:entries="@array/tempList"
+            android:prompt="@string/inputPrompt"
+            android:spinnerMode="dialog"
+            android:gravity="center">
+        </Spinner>
+
+        <TextView
+            android:id="@+id/myTextView2"
+            android:layout_width="0dip"
+            android:layout_height="20pt"
+            android:layout_weight="0.12"
+            android:text="@string/tv2Text"
+            android:textColor="@color/textColor"
+            android:textSize="14pt"
+            android:textStyle="bold"
+            android:fontFamily="@font/cambria"
+            android:gravity="center">
+        </TextView>
+
+        <EditText
+            android:id="@+id/outputText"
+            android:layout_width="0dip"
+            android:layout_height="20pt"
+            android:layout_weight="0.2"
+            android:text="@string/inputText"
+            android:textColor="@color/textColor"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            android:fontFamily="@font/cambria"
+            android:gravity="center"
+            android:background="@color/etBgColor"
+            android:inputType="number"
+            android:enabled="false">
+        </EditText>
+
+        <Spinner
+            android:id="@+id/convList"
+            android:layout_width="0dip"
+            android:layout_height="20pt"
+            android:layout_weight="0.24"
+            android:entries="@array/tempList"
+            android:prompt="@string/inputPrompt"
+            android:spinnerMode="dialog"
+            android:gravity="center">
+        </Spinner>
+
     </LinearLayout>
 
 </RelativeLayout>
