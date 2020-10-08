@@ -118,3 +118,4 @@ Lalu copy TestA1BasicUIX031 ke org.aplas.basicappx untuk Testing
 
  `Hasil Testing`![](img/09test.png)
  `Hasil Testing`![](img/09test1.png)
+ `Hasil Di Emulator`![](img/emu.png)
