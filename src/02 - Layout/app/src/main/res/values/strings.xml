@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">UnitConverter</string>
-    <string name="tv1Text">UnitConverter</string>
+    <string name="app_name">Unit Converter</string>
+    <string name="tv1Text">Unit Converter</string>
     <string name="tv2Text">-></string>
     <string name="btnText">Convert</string>
     <string name="inputText">0</string>
     <string name="inputPrompt">Choose</string>
-    <string name="hint">Enter_any_value</string>
+    <string name="hint">Enter any value</string>
     <string name="chkRound">Rounded</string>
-    <string name="chkForm">ShowFormula</string>
+    <string name="chkForm">Show Formula</string>
     <string name="rbDist">Distance</string>
     <string name="rbTemp">Temperature</string>
     <string name="rbWeight">Weight</string>
@@ -15,5 +15,16 @@
         <item>°C</item>
         <item>°F</item>
         <item>K</item>
+    </string-array>
+    <string-array name="distList">
+        <item>Mtr</item>
+        <item>Inc</item>
+        <item>Mil</item>
+        <item>Ft</item>
+    </string-array>
+    <string-array name="weightList">
+        <item>Grm</item>
+        <item>Onc</item>
+        <item>Pnd</item>
     </string-array>
 </resources>

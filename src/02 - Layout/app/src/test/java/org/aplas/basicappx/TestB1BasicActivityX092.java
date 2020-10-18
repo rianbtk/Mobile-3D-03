@@ -1,5 +1,7 @@
 package org.aplas.basicappx;
 
+import android.view.View;
+import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
@@ -19,7 +21,7 @@ import java.util.List;
 @Config(manifest=Config.NONE)
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
-public class TestA1BasicUIX082 extends ViewTest {
+public class TestB1BasicActivityX092 extends ViewTest {
     private MainActivity activity;
     private RelativeLayout layout;
 
@@ -47,25 +49,39 @@ public class TestA1BasicUIX082 extends ViewTest {
         /************************/
 
         //JUnit Test
-        int prevElement = 6;
+        int prevElement = 8;
         testCompletion(prevElement,elements,layout);
     }
 
     @Test
     public void check_01_ImageView_Properties() { //Check Layout Specification
         //Component properties value
-        int compIdx = 6;
+        int compIdx = 8;
         ImageView component = (ImageView) layout.getChildAt(compIdx);
         ElementTest comp = new ElementTest(component);
 
         //Test each item
-        comp.testIdName("img");
-        comp.testWidth(89);
-        comp.testHeight(89);
-        comp.testImageSrc("temperature");
+        comp.testIdName("imgFormula");
+        comp.testWidth(-1);
+        comp.testHeight(-1);
+        comp.testImageSrc("formula");
         comp.testLayoutBelow(layout.getChildAt(compIdx-1).getId());
         comp.testLinearHorizontal(true);
-        comp.testTopMargin(11);
+        comp.testTopMargin(2);
+        comp.testVisibility(View.INVISIBLE);
     }
 
+    @Test
+    public void check_02_FormulaBox_Event() { //Check Layout Specification
+        int compIdx = 8;
+        ImageView component = (ImageView) layout.getChildAt(compIdx);
+        ElementTest comp = new ElementTest(component);
+
+        //Check Visibility
+        ((CheckBox)activity.findViewById(R.id.chkFormula)).setChecked(true);
+        comp.testVisibility(View.VISIBLE);
+
+        ((CheckBox)activity.findViewById(R.id.chkFormula)).setChecked(false);
+        comp.testVisibility(View.INVISIBLE);
+    }
 }
