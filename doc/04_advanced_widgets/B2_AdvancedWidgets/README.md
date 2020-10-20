@@ -38,7 +38,9 @@
 
 `Hasil Testing`![](img/test/81.png)
 
+### Dokumentasi Aplikasi
 
+`Jika Folder project android studio kita rename maka file pun akan otomatis terhapus, sebagai pengalaman saya maka jangan rename folder project`![](img/kesalahan_fatal.png)
 
 ### Tampilan
 
