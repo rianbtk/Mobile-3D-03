@@ -44,3 +44,12 @@
 
 ### Tampilan
 
+`Tampilan Awal`![](img/tamp1.jpg)
+
+<br>
+
+`Setelah Login`![](img/login.jpg)
+
+<br>
+
+`Game Play`![](img/running.jpg)
