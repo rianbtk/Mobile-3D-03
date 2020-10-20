@@ -40,6 +40,14 @@
 
 ### Dokumentasi Aplikasi
 
+`Password`![](img/test/password.png)
+
+<br>
+
+`Build ke Android`![](img/test/running.png)
+
+<br>
+
 `Jika Folder project android studio kita rename maka file pun akan otomatis terhapus, sebagai pengalaman saya maka jangan rename folder project`![](img/kesalahan_fatal.png)
 
 ### Tampilan
