@@ -10,7 +10,7 @@ public class CaraRootingViewModel extends ViewModel {
 
     public CaraRootingViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("");
+        mText.setValue("Rian Btk");
     }
 
     public LiveData<String> getText() {
