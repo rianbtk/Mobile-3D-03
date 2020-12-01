@@ -1,4 +1,4 @@
-package com.rianbtk.sisteminfosetting.ui.sistem_info;
+    package com.rianbtk.sisteminfosetting.ui.sistem_info;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
