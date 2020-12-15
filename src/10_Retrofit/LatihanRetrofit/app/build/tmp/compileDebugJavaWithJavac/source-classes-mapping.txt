@@ -1,0 +1,14 @@
+com/rian/latihanretrofit/services/GithubService.java
+ com.rian.latihanretrofit.services.GithubService
+com/rian/latihanretrofit/MainActivity.java
+ com.rian.latihanretrofit.MainActivity
+ com.rian.latihanretrofit.MainActivity$1
+ com.rian.latihanretrofit.MainActivity$1$1
+com/rian/latihanretrofit/databinding/ActivityMainBinding.java
+ com.rian.latihanretrofit.databinding.ActivityMainBinding
+com/rian/latihanretrofit/models/Repo.java
+ com.rian.latihanretrofit.models.Repo
+com/rian/latihanretrofit/BuildConfig.java
+ com.rian.latihanretrofit.BuildConfig
+com/rian/latihanretrofit/DataBindingTriggerClass.java
+ com.rian.latihanretrofit.DataBindingTriggerClass

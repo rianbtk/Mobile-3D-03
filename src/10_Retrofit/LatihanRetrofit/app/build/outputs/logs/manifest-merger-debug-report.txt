@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/844b793bca635c43884661ca53a31724/databinding-adapters-4.2.0-alpha16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/31968bbe842186c1ec080f9e8b270656/databinding-runtime-4.2.0-alpha16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/70dac2d8f5b0ba3ab2a33460e57d33c0/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccee3e7f46a3618a6072ffaac0137e46/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/171521d3fdf4cfb06eb5e3d1742a4f58/jetified-viewbinding-4.2.0-alpha16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2be71689744e80333d6a06eadf239a2e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f8c5af71852e2015ff88d952de71a69e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccd0361543606d1052f97cf1d69b7486/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f4c6492c1ba6634b4c1fc0ba912091aa/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fa91c6a362b59b532fa4b1257849379/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/68d6500ca68adf9365c27d621b63be7f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/cdc6ad666bc4f30e7dc5edffe2805e19/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f050f37e93d417dbde1ea4e67be267e3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fb1729b811164399901198bdf8ca7f2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/acd625af46cfdea495726b5441e09267/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/44aa1c047c9936aa7ccefd8e230261a8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/4b409434f01484ff91219dadbb4388f6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/71d7f247220c4e6b0da0c98c520404b7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/32b3892c6d80131f11a2d0f82a6b3848/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/d30806a842a4818791908157a4753aeb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2adb4ff72fa350b4b1e8f5bcaafcf7ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/022ff228e1bbe863aa9abd7d83a67761/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/8aec3ef986152b7e1f63405c861efd33/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/70dac2d8f5b0ba3ab2a33460e57d33c0/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/70dac2d8f5b0ba3ab2a33460e57d33c0/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/44aa1c047c9936aa7ccefd8e230261a8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/44aa1c047c9936aa7ccefd8e230261a8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:12:13-44
+activity#com.rian.latihanretrofit.MainActivity
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:13:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/844b793bca635c43884661ca53a31724/databinding-adapters-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/844b793bca635c43884661ca53a31724/databinding-adapters-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/31968bbe842186c1ec080f9e8b270656/databinding-runtime-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/31968bbe842186c1ec080f9e8b270656/databinding-runtime-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/70dac2d8f5b0ba3ab2a33460e57d33c0/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/70dac2d8f5b0ba3ab2a33460e57d33c0/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccee3e7f46a3618a6072ffaac0137e46/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccee3e7f46a3618a6072ffaac0137e46/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/171521d3fdf4cfb06eb5e3d1742a4f58/jetified-viewbinding-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha16] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/171521d3fdf4cfb06eb5e3d1742a4f58/jetified-viewbinding-4.2.0-alpha16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2be71689744e80333d6a06eadf239a2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2be71689744e80333d6a06eadf239a2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f8c5af71852e2015ff88d952de71a69e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f8c5af71852e2015ff88d952de71a69e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccd0361543606d1052f97cf1d69b7486/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/ccd0361543606d1052f97cf1d69b7486/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f4c6492c1ba6634b4c1fc0ba912091aa/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f4c6492c1ba6634b4c1fc0ba912091aa/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fa91c6a362b59b532fa4b1257849379/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fa91c6a362b59b532fa4b1257849379/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/68d6500ca68adf9365c27d621b63be7f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/68d6500ca68adf9365c27d621b63be7f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/cdc6ad666bc4f30e7dc5edffe2805e19/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/cdc6ad666bc4f30e7dc5edffe2805e19/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f050f37e93d417dbde1ea4e67be267e3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/f050f37e93d417dbde1ea4e67be267e3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fb1729b811164399901198bdf8ca7f2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/0fb1729b811164399901198bdf8ca7f2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/be9e05571ec344b63285744b20974ac9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/acd625af46cfdea495726b5441e09267/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/acd625af46cfdea495726b5441e09267/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/44aa1c047c9936aa7ccefd8e230261a8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/44aa1c047c9936aa7ccefd8e230261a8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/4b409434f01484ff91219dadbb4388f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/4b409434f01484ff91219dadbb4388f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/71d7f247220c4e6b0da0c98c520404b7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/71d7f247220c4e6b0da0c98c520404b7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/32b3892c6d80131f11a2d0f82a6b3848/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/32b3892c6d80131f11a2d0f82a6b3848/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/d30806a842a4818791908157a4753aeb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/d30806a842a4818791908157a4753aeb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2adb4ff72fa350b4b1e8f5bcaafcf7ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/2adb4ff72fa350b4b1e8f5bcaafcf7ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/022ff228e1bbe863aa9abd7d83a67761/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/022ff228e1bbe863aa9abd7d83a67761/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/8aec3ef986152b7e1f63405c861efd33/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/rian/.gradle/wrapper/dists/gradle-2.2.1-all/caches/transforms-2/files-2.1/8aec3ef986152b7e1f63405c861efd33/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		ADDED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Github/Mobile-3D-03/src/10_Retrofit/LatihanRetrofit/app/src/main/AndroidManifest.xml

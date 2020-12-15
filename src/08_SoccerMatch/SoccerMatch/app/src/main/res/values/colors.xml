@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#343434</color>
+    <color name="colorPrimaryDark">#f82727</color>
+    <color name="colorAccent">#fb9191</color>
+    <color name="colorHomeBg">#fb9191</color>
+    <color name="colorAwayTitle">#01443e</color>
+    <color name="colorHomePlay">#e2e2e2</color>
+    <color name="yellow">#f2f230</color>
+    <color name="orange">#f27a30</color>
+    <color name="blue">#3333ff</color>
+    <color name="lightBlue">#33ffff</color>
+    <color name="green">#00ff00</color>
+    <color name="lightGreen">#80ff80</color>
+    <color name="homeTeam">#f82727</color>
+    <color name="awayTeam">#ffa200</color>
+    <color name="homeBG">#fb8ead</color>
+    <color name="awayBG">#fac765</color>
+</resources>
