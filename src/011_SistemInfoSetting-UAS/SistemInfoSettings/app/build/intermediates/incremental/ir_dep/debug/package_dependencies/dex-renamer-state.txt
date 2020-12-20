@@ -1,0 +1,4 @@
+#Thu Oct 22 23:41:41 WIB 2020
+base.0=/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

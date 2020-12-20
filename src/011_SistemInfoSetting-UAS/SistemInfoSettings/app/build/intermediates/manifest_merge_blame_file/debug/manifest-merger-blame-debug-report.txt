@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rian.sisteminfosetting"
+4    android:versionCode="17"
+5    android:versionName="1.0.6" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="8"
+8-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="19" />
+9-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:7:5-81
+11-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+12-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:8:5-75
+12-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:8:22-72
+13
+14    <application
+14-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:10:5-24:19
+15        android:allowBackup="true"
+15-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:11:9-35
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:12:9-45
+18        android:label="@string/app_name"
+18-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:13:9-41
+19        android:theme="@style/AppTheme" >
+19-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:14:9-40
+20        <activity
+20-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:15:9-23:20
+21            android:name="com.rian.sisteminfosetting.MainActivity"
+21-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:16:13-67
+22            android:label="@string/app_name" >
+22-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:17:13-45
+23            <intent-filter>
+23-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:18:13-22:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:19:17-69
+24-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:19:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:21:17-77
+26-->/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/AndroidManifest.xml:21:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

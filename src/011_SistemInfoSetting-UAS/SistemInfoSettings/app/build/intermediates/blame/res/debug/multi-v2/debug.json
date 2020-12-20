@@ -1,0 +1,149 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "54,16",
+                        "endColumns": "39,37",
+                        "endOffsets": "89,49"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,95",
+                        "endColumns": "39,37",
+                        "endOffsets": "90,128"
+                    }
+                },
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,5,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "110,56,216,163,324",
+                        "endColumns": "52,53,107,52,69",
+                        "endOffsets": "158,105,319,211,389"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "247,300,354,462,515",
+                        "endColumns": "52,53,107,52,69",
+                        "endOffsets": "295,349,457,510,580"
+                    }
+                },
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "585,876",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "871,1031"
+                    }
+                },
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "133,191",
+                        "endColumns": "57,55",
+                        "endOffsets": "186,242"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/rian/Home/rian/Documents/POLINEMA/Kelas-3-Semester-1/MOBILE/Project/BuildPropAndroid/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
