@@ -20,42 +20,42 @@
 
 Fiture Restore : Fiture ini digunakan untuk mengembalikan data yang telah dirubah sebelumnya
 
-`Restored`![](img/restored.jpg)
+`Restored`![](img/restored.png)
 
 <br>
 
 Fiture Edit : Digunakan untuk mengedit file sesuai view yang di tampilkan
 
-`Edit`![](img/edit.jpg)
+`Edit`![](img/edit.png)
 
 <br>
 
-`restart`![](img/restart.jpg)
+`restart`![](img/restart.png)
 
 <br>
 
-`Directory`![](img/penyimpanan.jpg)
+`Directory`![](img/penyimpanan.png)
 
 <br>
 
 
 Fiture View : Digunakan untuk menampilkan informasi system
 
-`Root`![](img/root.jpg)
+`Root`![](img/root.png)
 
 <br>
 
-`View`![](img/sebelum.jpg)
+`View`![](img/sebelum.png)
 
 <br>
 
 Fiture Saya : Digunakan untuk menampilkan informasi deri pengembang
 
-`Saya`![](img/about.jpg)
+`Saya`![](img/about.png)
 
 <br>
 
-`Link`![](img/link.jpg)
+`Link`![](img/link.png)
 
 <br>
 
@@ -71,11 +71,11 @@ Splash Screen
 
 Hasil : 
 
-`Hasil 1`![](img/hasil.jpg)
+`Hasil 1`![](img/hasil.png)
 
 <br>
 
-`Hasil 2`![](img/hasil2.jpg)
+`Hasil 2`![](img/hasil2.png)
 
 <br>
 
