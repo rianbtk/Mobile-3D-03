@@ -3,7 +3,12 @@
     Nama APlikasi : Sistem Info Setting
     Bahasa APlikasi : Java
 
- link APlikasi: [Sistem Info Setting](apk/app-debug.apk)
+ link APlikasi: [Sistem Info Setting](apk/app-debug-fix.apk)
+
+<br>
+
+`Update Hasil`![](img/h_fix.jpg)
+
 
 
 # Deskripsi Aplikasi
@@ -15,6 +20,7 @@
 
     Nim : 1941723007
     Nama / Pengembang : Agus Salim Hadjrianto
+    Kelas : TI-3D
 
 # Fitur-fitur Aplikasi
 
